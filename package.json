@@ -1,6 +1,6 @@
 {
   "name": "vdom-event",
-  "version": "0.1.1",
+  "version": "3.3.1",
   "description": "Add dom-delegator events to your vdom tree",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
